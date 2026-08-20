@@ -1,0 +1,85 @@
+/* ===================================================
+   ESTILOS PERSONALIZADOS - EDICIONES FARES
+   =================================================== */
+
+/* Paleta de colores temáticos */
+.fcolor-d5 {
+    background-color: #1a252f !important;
+    color: #ffffff !important;
+}
+
+.fcolor-d2 {
+    background-color: #2c3e50 !important;
+    color: #ffffff !important;
+}
+
+.fcolor-14 {
+    background-color: #34495e !important;
+    color: #ffffff !important;
+}
+
+.ftema {
+    background-color: #2c3e50 !important;
+    color: #ffffff !important;
+}
+
+.fcolor-l5 {
+    background-color: #f8f9fa !important;
+    color: #333333 !important;
+}
+
+.f-color-texto {
+    color: #2c3e50 !important;
+}
+
+/* Ajustes para encabezados */
+header h1 {
+    margin: 10px 0;
+    font-weight: 700;
+}
+
+/* Menú de navegación */
+.w3-bar .w3-button {
+    color: #ffffff !important;
+}
+
+.w3-bar .w3-button:hover {
+    background-color: #1a252f !important;
+    color: #ffffff !important;
+}
+
+.w3-dropdown-content a:hover {
+    background-color: #1a252f !important;
+    color: #ffffff !important;
+}
+
+/* Encabezados de formularios y tablas */
+.w3-container.fcolor-d2 h2 {
+    font-size: 1.2rem;
+    margin: 8px 0;
+    font-weight: 600;
+}
+
+/* Ajustes de formularios e inputs */
+form.w3-card {
+    padding: 16px;
+    background-color: #ffffff;
+    border-radius: 0 0 4px 4px;
+}
+
+.w3-input {
+    margin-bottom: 12px;
+}
+
+/* Tablas */
+table.w3-table-all thead {
+    background-color: #2c3e50;
+    color: #ffffff;
+}
+
+/* Pie de página */
+footer {
+    padding: 12px;
+    text-align: center;
+    margin-top: 30px;
+}
